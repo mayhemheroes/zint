@@ -1,0 +1,5 @@
+project: zint
+target: zint
+
+cmds:
+  - cmd: zint
