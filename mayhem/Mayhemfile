@@ -2,4 +2,4 @@ project: zint
 target: zint
 
 cmds:
-  - cmd: zint -d 
+  - cmd: zint -i @@
